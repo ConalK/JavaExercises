@@ -9,5 +9,4 @@ public class ReverseString {
         String reverse = new StringBuilder(hi).reverse().toString();
         System.out.println(reverse);
     }
-
 }
