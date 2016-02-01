@@ -6,7 +6,7 @@ public class FizzBuzz {
     public static void main(String[] args) {
 
         // For the numbers 1 to 100
-        for (int i = 1; i <= 100; i++){
+        for (int i = 1; i <= 100; i++) {
             // If the number is divisible by 3 and 5, print FizzBuzz
             if (i % (3*5) == 0) {
                 System.out.println("FizzBuzz");
